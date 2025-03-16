@@ -1,0 +1,5 @@
+torch
+torchvision
+streamlit
+requests
+python-dotenv
